@@ -11,7 +11,7 @@ MedInsight Plus is not a substitute for professional medical advice, diagnosis, 
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Pages](#pages)
-- [Disease Information](#disease-information)
+- [Screenshots](#screenshots)
 - [Model Evaluation](#model-evaluation)
 - [Project Team](#project-team)
 - [Connect with Us](#connect-with-us)
@@ -63,12 +63,29 @@ MedInsight Plus is not a substitute for professional medical advice, diagnosis, 
   - **Blood Pressure vs Cholesterol Levels** (Scatter Plot)
   - **Disease Co-occurrence Heatmap**
 
+### Fetching Information
+- Dynamically fetch disease details from **Wikipedia**.
+- Stylish animations for user experience.
+
 ---
 
-## Disease Information
+## Screenshots
 
-- Users can enter a disease name or select from the diagnosed diseases to fetch information.  
-- Data is fetched dynamically from **Wikipedia** and displayed with styled animations for a seamless experience.
+### Home Page  
+![Home Page  MedInsight](https://github.com/user-attachments/assets/a2671560-962f-464a-bbbe-b80b0e75d6af)
+
+
+### Model Evaluation  
+![Model Evualtion](https://github.com/user-attachments/assets/4a3f58bb-91dc-424b-a7b0-46c10ecd9cc7)
+
+
+### Disease Demographics  
+![Disease Demographics](https://github.com/user-attachments/assets/62e849bf-a7c3-4212-838c-cfc8098553cb)
+
+
+### Fetching Information  
+ ![Information Fetching](https://github.com/user-attachments/assets/3aa4e012-5107-4b08-9cb5-0d2226a37fbd)
+
 
 ---
 
